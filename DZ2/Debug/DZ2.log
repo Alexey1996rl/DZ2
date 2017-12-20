@@ -1,0 +1,12 @@
+﻿  main.cpp
+c:\users\lyosh\onedrive\документы\visual studio 2017\projects\dz2\dz2\main.cpp(11): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note:  см. объявление "fopen"
+c:\users\lyosh\onedrive\документы\visual studio 2017\projects\dz2\dz2\main.cpp(17): warning C4996: 'fileno': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _fileno. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(2456): note:  см. объявление "fileno"
+c:\users\lyosh\onedrive\документы\visual studio 2017\projects\dz2\dz2\main.cpp(23): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1772): note:  см. объявление "sprintf"
+c:\users\lyosh\onedrive\документы\visual studio 2017\projects\dz2\dz2\main.cpp(25): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1772): note:  см. объявление "sprintf"
+c:\users\lyosh\onedrive\документы\visual studio 2017\projects\dz2\dz2\main.cpp(36): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  DZ2.vcxproj -> c:\users\lyosh\onedrive\документы\visual studio 2017\Projects\DZ2\Debug\DZ2.exe
+  DZ2.vcxproj -> c:\users\lyosh\onedrive\документы\visual studio 2017\Projects\DZ2\Debug\DZ2.pdb (Partial PDB)
